@@ -42,5 +42,5 @@
 - Permission 설정 (인터넷 권한)
 - DTO 생성 (DTO 명: Post.kt)
 - Interface 정의 (Ingerface 명: JsonPlaceholderService.kt)
-- Retrofit 인스턴스 생성
+- Retrofit 인스턴스 생성 (Mainactivity.kt 참고)
 - 결과 출력 및 테스트 UI 구성
